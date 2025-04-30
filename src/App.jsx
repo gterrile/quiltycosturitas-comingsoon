@@ -1,4 +1,4 @@
-import quiltyLogo from './assets/quiltycosturitas-logo.JPEG'
+import quiltyLogo from './assets/quilty-transparent.PNG'
 import instagram from './assets/instagram.svg'
 import tiktok from './assets/tiktok.svg'
 import './App.css'
